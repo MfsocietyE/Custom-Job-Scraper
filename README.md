@@ -18,3 +18,5 @@ REQUIREMNTS:
 Find Google Chrome version: 3 dot on top right, help, about Google Chrome
 After Downloading ChromeDrive extract it on Drive C. Make folder that name WebDriver. then copy chromedriver.exe there. PATH: C:\WebDriver\chromedriver.exe
 
+
+💀☠️Custom Job Scraper Published By fsociety☠️💀
